@@ -32,7 +32,7 @@ one clean file.
  <br />● Storing, analyzing, and visualizing your wrangled data
  <br />● Reporting data wrangling efforts data analyses and visualizations
 <br />__Data__
-The WeRateDogs Twitter provides their archive twitter_archive_enhanced.csv for the
+<br />The WeRateDogs Twitter provides their archive twitter_archive_enhanced.csv for the
 use of this project. The archive contains basic tweet data for all 5000+ of their
 tweets, but not everything. The file contains columns that need to be assessed and
 cleaned.
